@@ -5,7 +5,7 @@ src/
 ├──| hooks/
 |--| utils
 ├── features/       # Feature modules
-│   ├── [featurename]/
+│   ├── [feature-name]/
 │   │   ├── components/
 │   │   ├── hooks/
 │   │   ├── services/
